@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["wargle","The Wargle Module"]]};
