@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"howdy_multi":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.80.1/core/marker/trait.Freeze.html\" title=\"trait core::marker::Freeze\">Freeze</a> for <a class=\"struct\" href=\"howdy_multi/struct.ThreadPool.html\" title=\"struct howdy_multi::ThreadPool\">ThreadPool</a>",1,["howdy_multi::ThreadPool"]]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
